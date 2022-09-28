@@ -185,7 +185,8 @@ select idPedido, Status_pedido, Frete, Preço, idProduto from Pedidos
 where Pedidos.idvendedor = 2;
 
 select idPedido, Status_pedido, Frete, Preço, idProduto from Pedidos
-where Pedidos.idvendedor = 2
+where Pedidos.idvendedor = 2;
+
 
 
 
